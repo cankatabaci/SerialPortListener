@@ -1,5 +1,8 @@
+# Serial Port Listener
+**This project is a console application that helps simple serial port listening**
+
 * Note: Press 1 on the menu to continue with the default settings
-# Default Serial Port Settings:
+## Default Serial Port Settings:
 > Port Name: COM1 <br />
 > Baud Rate: 9600 <br />
 > Data Bits: 8 <br />
