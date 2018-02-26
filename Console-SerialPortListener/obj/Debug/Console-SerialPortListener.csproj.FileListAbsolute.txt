@@ -1,0 +1,14 @@
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\bin\Debug\Console-SerialPortListener.exe
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\bin\Debug\Console-SerialPortListener.pdb
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.csprojResolveAssemblyReference.cache
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.csproj.CoreCompileInputs.cache
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.exe
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.pdb
+D:\Projects-Playground\Serial-Port-Listener\Console-SerialPortListener\Console-SerialPortListener\bin\Debug\Console-SerialPortListener.exe.config
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\bin\Debug\Console-SerialPortListener.exe.config
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\bin\Debug\Console-SerialPortListener.exe
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\bin\Debug\Console-SerialPortListener.pdb
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.csprojResolveAssemblyReference.cache
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.csproj.CoreCompileInputs.cache
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.exe
+D:\GitHub\Console-SerialPortListener\Console-SerialPortListener\obj\Debug\Console-SerialPortListener.pdb
